@@ -5,6 +5,7 @@ function Main() {
     return (
         <div>
             <h1>It`s main!</h1>
+            console.log('It`s main!')
         </div>
     );
 };

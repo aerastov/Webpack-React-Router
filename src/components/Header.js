@@ -8,17 +8,13 @@ function Header() {
     }
     return (
         <div>
-            <h1>It`s main!</h1>
+            <h1>It`s header!</h1>
             <button className={ "some-button" } onClick={ handleClick }>{buttonName}</button>
         </div>
     );
 };
 
 export default Header;
-
-
-
-
 
 
 
