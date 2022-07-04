@@ -161,3 +161,7 @@ root.render(<App tab="home" />);
 ### Установка propTypes (для валидации типа переменных) ДОРАБОТАТЬ!
 Ставим: `npm i prop-types --save-dev`  
 Прописываем в компоненты react (в которых будем использовать): `import PropTypes from 'prop-types';`  
+
+
+### Ставим Router
+`npm i react-router-dom`
